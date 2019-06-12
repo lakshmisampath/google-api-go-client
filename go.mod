@@ -1,4 +1,4 @@
-module google.golang.org/api
+module github.com/lakshmisampath/google-api-go-clienet
 
 require (
 	github.com/google/go-cmp v0.2.0
